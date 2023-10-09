@@ -53,3 +53,18 @@ Run a specific command from the list:
 View the Nox help pages:
 
     nox --help
+Description:    
+
+    The BSF Fitness community is devoted to bringing positive change in your life and fitness goals. Including help with your overall health, nutrition, and athletic training.
+
+    Misinformation is a disease. Our goal is to clear up the misinformation that has been popping up in the fitness community, which leaves beginners clueless on what direction to go in. We are an evidence-based community that does not tolerate misinformation.
+
+    Join if you are passionate about making a change in your life and learning from others within our community.
+
+    This server offers professional services, these include meal plans, sport-related dieting, physique transformations, improving health, and energy levels, advice on weekly intakes, etc (from certified/registered practitioners).
+
+    Please note: if you get DMs from randomers that seems suspicious/any promotional content please contact the owner, admin, or moderator about this situation.
+
+Discord:    
+    https://discord.gg/bsf-fitness-688710650507165697
+
